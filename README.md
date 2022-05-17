@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pusztul0agysejt
 - 👀 I’m interested in
         /data science
-        /
+        /cyber security
 - 🌱 I’m currently learning programming basics with python.
 - 💞️ I’m looking to collaborate with other begginers on simple projects.
 - 📫 How to reach me: beniezio96@gmail.com
